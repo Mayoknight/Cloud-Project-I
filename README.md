@@ -44,10 +44,10 @@ http://localhost:3000
 Below are some screenshots of this project:
 
 ### Website Interface
-![Website Interface](./Screenshot from 2025-05-25 13-31-49.png)
+![Website Interface](/Screenshot from 2025-05-25 13-31-49.png)
 
 ### Docker Build Output
-![Docker Build Output](./Screenshot from 2025-05-25 12-57-36.png)
+![Docker Build Output](/Screenshot from 2025-05-25 12-57-36.png)
 
 ### Accessing the Website in Browser
-![Website in Browser](./Screenshot from 2025-05-25 13-46-14.png)
+![Website in Browser](/Screenshot from 2025-05-25 13-46-14.png)
